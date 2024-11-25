@@ -1,7 +1,7 @@
 # Filter Program
 
 ## Overview
-A command-line tool to apply filters to BMP images. Currently, the `grayscale` filter is set up but does not modify the image yet.
+A command-line tool to apply filters to BMP images.
 
 ## Usage
 
