@@ -10,7 +10,7 @@ A command-line tool to apply filters to BMP images.
    make filter
 2. **Run**:
    ```bash
-   ./filter -g images/yard.bmp out.bmp
+   ./filter -g images/sample-image.bmp out.bmp
 - `-g`: Apply grayscale.
 - `-b`: To blur image.
 - `-r`: To reflect image.
